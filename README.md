@@ -2,6 +2,7 @@
 # Star-Grid
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/92144487/136524741-8ba9a735-7dc4-436d-bc90-34a7b96a3f2e.png)
+
 Total Semua dari Kotak 9 X 9 adalah 81
 
 # Bagikan Sub-Persegi ke Kotak 3X3
