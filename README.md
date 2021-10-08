@@ -11,4 +11,7 @@ Total Semua dari Kotak 9 X 9 adalah 81
  
  # Tujuan
  # Tujuan 1
+ ![Untitled Diagram drawio1](https://user-images.githubusercontent.com/92144487/136528628-fe632363-0ffa-4e3c-b19b-a7a6a14ab5ce.png)
+ # Status Tujuan 2
+
 
